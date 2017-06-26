@@ -1,7 +1,8 @@
 /**
- * Created by kimseonghoon on 2017-06-26.
- * How to run?
- * node CreateHttpServer.js
+ * Created date 2017-06-26.
+ * File name CreateHttpServer.js
+ * github http://https://github.com/KSH-code/nodejs-tutorial
+ * blog http://ksh-code.tistory.com
  */
 'use strict';
 const http = require('http');//http moudle
